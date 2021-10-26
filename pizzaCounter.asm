@@ -2,8 +2,8 @@
 
 #messages
 askCircle:      .asciiz     "Number of round pizzas sold: "
-askSqaure:	    .asciiz     "Number of sqaure pizzas sold: "
-userGuess:	    .asciiz     "Estimate total pizzas sold in square feet: "
+askSqaure:	.asciiz     "Number of sqaure pizzas sold: "
+userGuess:	.asciiz     "Estimate total pizzas sold in square feet: "
 allTotal:       .asciiz     "\nTotal number of pizzas sold: "
 onlySquare:     .asciiz     "\n\nTotal square pizzas sold: "
 sqrFeet:        .asciiz     "ft^2"
